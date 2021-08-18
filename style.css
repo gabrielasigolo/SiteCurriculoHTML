@@ -4,3 +4,17 @@
     font-family: 'FonteTitulo';
     src: url(/fontes/Ubuntu-Regular.ttf);
 }
+
+header {
+    font-family: 'FonteTitulo';
+    font-size: 30px;
+    color: rgb(13, 84, 141);
+}
+
+h2 {
+    font-family: 'FonteTitulo';
+}
+
+body{
+    background-color: lightblue;
+}
