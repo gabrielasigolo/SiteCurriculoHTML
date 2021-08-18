@@ -20,9 +20,11 @@ header {
     font-family: 'FonteTitulo';
     font-size: 40px;
     color: rgb(13, 84, 141);
+    background-color: aliceblue;
+    border: solid;
 }
 
-.subtitulo {
+.subtitle {
     font-family: 'FonteSubtitulos';
 }
 
@@ -30,12 +32,15 @@ body {
     background-color: lightblue;
 }
 
-.texto {
+.text {
     font-family: 'FonteTexto';
     font-size: 20px;
 }
 
-.foto {
-    
+.photo {
     border-radius: 500px;
+}
+
+.address{
+    border: solid rgb(34, 140, 201);
 }
