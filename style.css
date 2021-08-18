@@ -34,3 +34,8 @@ body {
     font-family: 'FonteTexto';
     font-size: 20px;
 }
+
+.foto {
+    
+    border-radius: 500px;
+}
