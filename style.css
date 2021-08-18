@@ -5,6 +5,7 @@
     font-family: 'FonteSubtitulos';
     src: url(/fontes/Ubuntu-Regular.ttf);
 }
+
 @font-face {
     font-family: 'FonteTexto';
     src: url(/fontes/CrimsonText-Regular.ttf);
@@ -15,23 +16,21 @@
     src: url(/fontes/Lobster-Regular.ttf);
 }
 
-
-
 header {
     font-family: 'FonteTitulo';
     font-size: 40px;
     color: rgb(13, 84, 141);
 }
 
-h2 {
+.subtitulo {
     font-family: 'FonteSubtitulos';
 }
 
-body{
+body {
     background-color: lightblue;
 }
 
-font {
+.texto {
     font-family: 'FonteTexto';
     font-size: 20px;
 }
