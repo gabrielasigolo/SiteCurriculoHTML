@@ -2,22 +2,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @font-face {
-    font-family: 'FonteSubtitulos';
+    font-family: 'SubtitleFont';
     src: url(/fontes/Ubuntu-Regular.ttf);
 }
 
 @font-face {
-    font-family: 'FonteTexto';
+    font-family: 'TextFont';
     src: url(/fontes/CrimsonText-Regular.ttf);
 }
 
 @font-face {
-    font-family: 'FonteTitulo';
+    font-family: 'TitleFont';
     src: url(/fontes/Lobster-Regular.ttf);
 }
 
 header {
-    font-family: 'FonteTitulo';
+    font-family: 'TitleFont';
     font-size: 40px;
     color: rgb(13, 84, 141);
     background-color: aliceblue;
@@ -25,7 +25,7 @@ header {
 }
 
 .subtitle {
-    font-family: 'FonteSubtitulos';
+    font-family: 'SubtitleFont';
 }
 
 body {
@@ -33,7 +33,7 @@ body {
 }
 
 .text {
-    font-family: 'FonteTexto';
+    font-family: 'TextFont';
     font-size: 20px;
 }
 
@@ -43,4 +43,9 @@ body {
 
 .address{
     border: solid rgb(34, 140, 201);
+}
+
+nav{
+    font-family: 'SubtitleFont';
+    
 }
