@@ -49,3 +49,13 @@ nav{
     font-family: 'SubtitleFont';
     
 }
+
+.menuLink{
+    text-decoration: none;
+}
+
+.certificates{
+    align-items: center;
+}
+
+
