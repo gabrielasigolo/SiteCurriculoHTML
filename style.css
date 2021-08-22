@@ -26,6 +26,7 @@ header {
 
 .subtitle {
     font-family: 'SubtitleFont';
+    background-color: rgba(122, 122, 235, 0.3);
 }
 
 body {
@@ -45,17 +46,16 @@ body {
     border: solid rgb(34, 140, 201);
 }
 
-nav{
-    font-family: 'SubtitleFont';
-    
+.contact-image{
+    margin-left: 2%;
+
 }
 
-.menuLink{
-    text-decoration: none;
+.contact{
+    text-align: center;
 }
 
-.certificates{
-    align-items: center;
-}
+
+
 
 
