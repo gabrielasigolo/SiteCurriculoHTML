@@ -18,10 +18,14 @@
 
 header {
     font-family: 'TitleFont';
-    font-size: 40px;
     color: rgb(13, 84, 141);
     background-color: aliceblue;
-    border: solid;
+    margin-top: 0%;
+    padding: 20px 20px 20px 40px;
+}
+
+header h1{
+    font-size: 50pt;
 }
 
 .subtitle {
